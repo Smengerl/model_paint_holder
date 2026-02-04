@@ -16,7 +16,7 @@ A universal, modular design to create a customizable holder for all your model p
 - Stable construction through screw connections
 
 
-![Example assembly](./print/full/full.png)
+![Example assembly](./print/zsb/full.png)
 
 | Example 1 | Example 2 | 
 | --------- | --------- | 
