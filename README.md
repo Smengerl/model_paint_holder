@@ -2,7 +2,7 @@
 # Universal Modular Paint Holder for Revell and Citadel Paints
 
 [![3D Printing](https://img.shields.io/badge/3D_printing-STL-green)](#)
-[![License](https://img.shields.io/badge/license-Beerware-green)](#)
+[![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 A universal, modular design to create a customizable holder for all your model paints from common manufacturers such as Revell and Citadel.
 
@@ -69,7 +69,7 @@ See `CONTRIBUTING.md` for details and follow the `CODE_OF_CONDUCT.md` when contr
 
 ## License
 
-This project is licensed under the Beerware License — see `LICENSE.txt` for details.
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) — see `LICENSE.txt` for details or visit http://creativecommons.org/licenses/by-sa/4.0/
 
 ## Authors
 
