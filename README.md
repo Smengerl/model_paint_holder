@@ -6,6 +6,15 @@
 
 A universal, modular design to create a customizable holder for all your model paints from common manufacturers such as Revell and Citadel.
 
+## Table of Contents
+- [Overview](#overview)
+- [3D Printed Parts](#3d-printed-parts)
+- [Standard Hardware](#standard-hardware)
+- [Assembly](#assembly)
+- [Development](#development)
+- [License](#license)
+- [Authors](#authors)
+
 
 ## Overview
 
