@@ -1,8 +1,10 @@
 
-# Universal Modular Paint Holder for Revell and Citadel Paints
+# Modular Paint Holder for Revell and Citadel Paints
 
 [![3D Printing](https://img.shields.io/badge/3D_printing-STL-green)](#)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+<img src="./print/example_2.jpg" alt="Modular paint holder filled with Revell and Citadel paints" width="560" />
 
 A universal, modular design to create a customizable holder for all your model paints from common manufacturers such as Revell and Citadel.
 
@@ -27,9 +29,9 @@ A universal, modular design to create a customizable holder for all your model p
 
 ![Example assembly](./print/zsb/full.png)
 
-| Example 1 | Example 2 | 
-| --------- | --------- | 
-| <img src="./print/example_1.jpg" width="300" alt="Example 1"> | <img src="./print/example_2.jpg" width="300" alt="Example 2"> | 
+| Modules and screws | Filled with paints | A larger rack |
+| ------------------ | ------------------ | ------------- |
+| <img src="./print/example_1.jpg" width="320" alt="Modules and screws before assembly"> | <img src="./print/example_2.jpg" width="320" alt="Small holder filled with paints"> | <img src="./print/example_3.jpg" width="320" alt="A larger three-by-six rack"> |
 
 
 ## 3D Printed Parts 
